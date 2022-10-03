@@ -1,0 +1,1 @@
+const int a = 10;//C语言中const默认是外部连接
